@@ -1,0 +1,9 @@
+पढ़ो: input
+लिखो: print
+पूर्णांक: int
+अक्षर: str
+सच: True
+झूट: False
+मिलान: match
+विकल्प: case
+अगर: if
