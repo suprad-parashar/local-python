@@ -1,9 +1,101 @@
-पढ़ो: input
-लिखो: print
+# Datatypes and Converting Functions
 पूर्णांक: int
-अक्षर: str
+वाक्य: str
+द्वंद्व: bool
+अंश: float
+## Hindi word not found!
+बाइट्स: bytes
+
+#Conversion Functions
+अक्षर: chr
+आस्की: ascii
+
+#String
+प्रारूप: format
+
+#Maths
+शुद्ध: abs
+जुडवा: bin
+
+# Data Structures
+सूची: list
+## Hindi word not found!
+टपल: tuple
+शब्दकोश: dict
+साथ: set
+
+# Basic Functions
+लो: input
+लिखो: print
+लंबाई: len
+नक्शा: map
+अधिकतम: max
+न्यूनतम: min
+खोलो: open
+दायरा: range
+राशि: sum
+
+# Comparision
+है: is
+
+# Boolean
 सच: True
 झूट: False
+
+# None
+खाली: None
+
+# Conditional Keywords
 मिलान: match
 विकल्प: case
 अगर: if
+वरनागर: elif
+वरना: else
+
+# Logical Keywords
+और: and
+या: or
+न: not
+
+# Others
+मे: in
+प्रकार: type
+छोड़ो: pass
+जैसे: as
+जोर: assert
+उत्पाद: yield
+सभा: zip
+
+# Loops
+सारे: for
+गिनती: enumerate
+जब्तक: while
+तोड़ो: break
+जारी: continue
+
+# Functions
+जानो: def
+# Hindi word not found.
+लैम्ब्डा: lambda
+भेजो: return
+
+# Exceptions
+कोशिश: try
+उठाओ: raise
+पकड़ो: except
+आखिर: finally
+
+# With
+उपयोग: with
+
+# Delete
+निकालो: del
+
+# Imports
+इससे: from
+विदेसी: nonlocal
+लाओ: import
+विश्व: global
+
+#OOPS
+वर्ग: class

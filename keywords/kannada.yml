@@ -1,0 +1,102 @@
+# Datatypes and Converting Functions
+ಪೂರ್ಣಾಂಕ: int
+ವಾಕ್ಯ: str
+ದ್ವೈತ: bool
+ಭಿನ್ನಾಂಕ: float
+## Kannada word not found!
+ಬೈಟ್‌ಗಳು: bytes
+
+#Conversion Functions
+ಅಕ್ಷರ: chr
+ಆಸ್ಕೀ: ascii
+
+#String
+ಸ್ವರೂಪ: format
+
+#Maths
+ಸಂಪೂರ್ಣ: abs
+ಅವಳಿ: bin
+
+# Data Structures
+ಪಟ್ಟಿ: list
+## Kannada word not found!
+ಟಪಲ್: tuple
+ನಿಘಂಟು: dict
+ಜೊತೆ: set
+
+# Basic Functions
+ತಗೋ: input
+ಬರೆ: print
+ಉದ್ದ: len
+ನಕ್ಷೆ: map
+ಗರಿಷ್ಠ: max
+ಕನಿಷ್ಠ: min
+ತೆಗಿ: open
+ವ್ಯಾಪ್ತಿ: range
+ಮೊತ್ತ: sum
+
+# Comparision
+ನೇ: is
+
+# Boolean
+ನಿಜ: True
+ಸುಳ್ಳು: False
+
+# None
+ಇಲ್ಲ: None
+
+# Conditional Keywords
+ಹೊಂದಿಸು: match
+ಆಯ್ಕೆ: case
+ಒಂದುವೇಳೆ: if
+ಇಲ್ಲದಿದ್ದಲ್ಲಿ: elif
+ಇಲ್ಲದಿದ್ದರೆ: else
+
+# Logical Keywords
+ಮತ್ತೆ: and
+ಅಥವಾ: or
+ಅಲ್ಲ: not
+
+# Others
+ನಲ್ಲಿ: in
+ವಿಧ: type
+ಬಿಡು: pass
+ಎಂದು: as
+ಸಾಧಿಸು: assert
+ಉತ್ಪನ್ನ: yield
+ಜೋಡಣೆ: zip
+
+# Loops
+ಪ್ರತಿ: for
+ಎಣಿಸಿ: enumerate
+ಯೆಲ್ಲಿಯತನಕ: while
+ಮುರಿ: break
+ಮುಂದುವರಿಸು: continue
+
+# Functions
+## Short for ವ್ಯಾಖ್ಯಾನಿಸು 
+ವ್ಯಾ: def
+# Kannada word not found.
+ಲ್ಯಾಂಬ್ಡಾ: lambda
+ವಾಪಸ್: return
+
+# Exceptions
+ಮಾಡು: try
+ಎಬ್ಬಿಸು: raise
+ವರ್ಜಿಸು: except
+ಕೊನೆಗೆ: finally
+
+# With
+ಬಳಸು: with
+
+# Delete
+ನಾಶ: del
+
+# Imports
+ಇಲ್ಲಿಂದ: from
+ವಿದೇಶ: nonlocal
+ಆಮದು: import
+ಜಾಗತಿಕ: global
+
+#OOPS
+ವರ್ಗ: class
