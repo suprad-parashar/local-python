@@ -9,7 +9,20 @@ This project is still under development. I have no Idea on where to start, how t
 So, feel free to contribute! Let's make this something nice to learn! Let's show everyone that we can code in any Indian Language!
 
 ## Usage
+
+### Creating a local python file.
+Create a file using the file extension py```[xx]``` or py```[xxx]```  where ```xx``` or ```xxx``` is the 2 letter and 3 letter ISO Code for the local language respectively.
+
+Example - kannada.pykn, hindi.pyhi
+
+### Writing code in the local language.
+The syntax of the local python is same as normal python. Just replace the keywords with the local ones. The local keywords are present in keywords/```[language]```.yml
+
+### Examples
+To see some simple examples, check out the examples folder.
+
+### Running the program.
 You can run a sample code written in kannada using the following command
 ```shell
-py code.py kannada examples/kannada.py
+py code.py examples/kannada.pykn
 ```
