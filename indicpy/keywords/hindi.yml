@@ -25,7 +25,7 @@
 साथ: set
 
 # Basic Functions
-लो: input
+पढ़ो: input
 लिखो: print
 लंबाई: len
 नक्शा: map

@@ -1,0 +1,10 @@
+README.md
+setup.py
+indicpy/__init__.py
+indicpy/indicpy.py
+indicpy/language.py
+indicpy.egg-info/PKG-INFO
+indicpy.egg-info/SOURCES.txt
+indicpy.egg-info/dependency_links.txt
+indicpy.egg-info/requires.txt
+indicpy.egg-info/top_level.txt
