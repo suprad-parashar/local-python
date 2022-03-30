@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: indicpy
-Version: 0.0.20
+Version: 1.0.0
 Summary: A Python library for running Indic Python Scripts
 Home-page: UNKNOWN
 Author: Suprad S Parashar
@@ -15,6 +15,7 @@ Classifier: Operating System :: Unix
 Classifier: Operating System :: MacOS :: MacOS X
 Classifier: Operating System :: Microsoft :: Windows
 Description-Content-Type: text/markdown
+License-File: LICENSE
 
 A Python library for running Indic Python Scripts written completely in Indian Languages such as Kannada and Hindi. It is a wrapper around the Indic Python Scripts written in the Indic Scripting Language (ISL).
 

@@ -1,3 +1,4 @@
+LICENSE
 README.md
 setup.py
 indicpy.egg-info/PKG-INFO
@@ -13,6 +14,7 @@ src/indicpy/language.py
 src/indicpy/test.py
 src/indicpy/examples/english.py
 src/indicpy/examples/hindi.pyhi
+src/indicpy/examples/hindi_english.epyhi
 src/indicpy/examples/kannada.pykn
 src/indicpy/examples/kannada_english.epykn
 src/indicpy/keywords/hindi.yml
