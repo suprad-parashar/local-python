@@ -1,0 +1,22 @@
+a = purnank(padho("Pehla Sankhya: "))
+karya = padho("Kya Karna chahoge?: ")
+b = purnank(padho("Doosra Sankhya: "))
+sahi = sach
+
+milaan karya:
+	vikalp "+":
+		c = a + b
+	vikalp "-":
+		c = a - b
+	vikalp "*":
+		c = a * b
+	vikalp "/":
+		c = a / b
+	vikalp "%":
+		c = a % b
+	vikalp _:
+		likho("Pata nahi!")
+		sahi = jhoot
+
+agar (sahi):
+	likho("Karya kaa uttar: " + vaakya(c))

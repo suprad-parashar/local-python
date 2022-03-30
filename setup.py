@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.1'
+VERSION = '1.0.0'
 DESCRIPTION = 'A Python library for running Indic Python Scripts'
 LONG_DESCRIPTION = 'A Python library for running Indic Python Scripts written completely in Indian Languages such as Kannada and Hindi. It is a wrapper around the Indic Python Scripts written in the Indic Scripting Language (ISL).'
 
@@ -13,8 +13,8 @@ setup(
 	description=DESCRIPTION,
 	long_description_content_type="text/markdown",
 	long_description=LONG_DESCRIPTION,
-	packages=find_packages(),
-	install_requires=['argparse', 'tokenize' 'typing'],
+	# packages=find_packages(),
+	install_requires=['argparse'],
 	keywords=['python', 'indian', 'local', 'indic', 'dravidian', 'devanagari', 'scripts'],
 	classifiers=[
 		"Development Status :: 1 - Planning",
@@ -23,5 +23,8 @@ setup(
 		"Operating System :: Unix",
 		"Operating System :: MacOS :: MacOS X",
 		"Operating System :: Microsoft :: Windows",
-	]
+	],
+	packages=['indicpy'],
+	package_dir={'indicpy': 'src/indicpy'},
+	package_data={'indicpy': ['examples/*', 'keywords/*.yml']},
 )

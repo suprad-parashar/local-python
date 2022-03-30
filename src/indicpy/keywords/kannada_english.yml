@@ -1,0 +1,102 @@
+# Datatypes and Converting Functions
+purnanka: int
+vaakya: str
+dvaita: bool
+bhinnanka: float
+## Kannada word not found!
+bytegalu: bytes
+
+#Conversion Functions
+akshara: chr
+ascii: ascii
+
+#String
+swaroopa: format
+
+#Maths
+sampoorna: abs
+avali: bin
+
+# Data Structures
+patti: list
+## Kannada word not found!
+tuple: tuple
+nighantu: dict
+jote: set
+
+# Basic Functions
+tago: input
+bare: print
+udda: len
+nakshe: map
+garishta: max
+kanishta: min
+tegi: open
+vyaapti: range
+motta: sum
+
+# Comparision
+ne: is
+
+# Boolean
+nija: True
+sullu: False
+
+# None
+illa: None
+
+# Conditional Keywords
+hondisu: match
+aayke: case
+onduvele: if
+illadiddalli: elif
+illadiddare: else
+
+# Logical Keywords
+matte: and
+athava: or
+alla: not
+
+# Others
+nalli: in
+vidha: type
+bidu: pass
+endu: as
+saadhisu: assert
+utpanna: yield
+jodane: zip
+
+# Loops
+prati: for
+enisi: enumerate
+yelliyatanaka: while
+muri: break
+munduvarisu: continue
+
+# Functions
+## Short for ವ್ಯಾಖ್ಯಾನಿಸು 
+vyaa: def
+# Kannada word not found.
+lambda: lambda
+vaapas: return
+
+# Exceptions
+maadu: try
+ebbisu: raise
+varjisu: except
+konege: finally
+
+# With
+balasu: with
+
+# Delete
+naasha: del
+
+# Imports
+illinda: from
+videsha: nonlocal
+aamadu: import
+jaagatika: global
+
+#OOPS
+varga: class

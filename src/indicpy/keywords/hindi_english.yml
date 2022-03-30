@@ -1,0 +1,101 @@
+# Datatypes and Converting Functions
+purnank: int
+vaakya: str
+dvandv: bool
+amsh: float
+## Hindi word not found!
+bytes: bytes
+
+#Conversion Functions
+akshar: chr
+ascii: ascii
+
+#String
+praaroop: format
+
+#Maths
+shudh: abs
+judva: bin
+
+# Data Structures
+soochi: list
+## Hindi word not found!
+tuple: tuple
+shabdkosh: dict
+saath: set
+
+# Basic Functions
+padho: input
+likho: print
+lambai: len
+naksh: map
+adhiktam: max
+nyoonatam: min
+kholo: open
+daayra: range
+raashi: sum
+
+# Comparision
+hai: is
+
+# Boolean
+sach: True
+jhoot: False
+
+# None
+khaali: None
+
+# Conditional Keywords
+milaan: match
+vikalp: case
+agar: if
+varnagar: elif
+varna: else
+
+# Logical Keywords
+aur: and
+yaa: or
+na: not
+
+# Others
+me: in
+prakaar: type
+chodo: pass
+jaise: as
+jor: assert
+utpaad: yield
+sabha: zip
+
+# Loops
+saare: for
+ginti: enumerate
+jabtak: while
+todo: break
+jaari: continue
+
+# Functions
+jaano: def
+# Hindi word not found.
+lambda: lambda
+bhejo: return
+
+# Exceptions
+koshish: try
+uthaao: raise
+pakdo: except
+akhir: finally
+
+# With
+upyog: with
+
+# Delete
+nikalo: del
+
+# Imports
+isse: from
+videsi: nonlocal
+laao: import
+vishv: global
+
+#OOPS
+varg: class

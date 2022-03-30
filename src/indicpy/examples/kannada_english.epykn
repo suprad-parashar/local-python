@@ -1,0 +1,22 @@
+a = purnanka(tago("Modalane sankhye haaku: "))
+karya = tago("Yaav karya?: ")
+b = purnanka(tago("Eradane sankhye haaku: "))
+sari = nija
+
+hondisu karya:
+	aayke "+":
+		c = a + b
+	aayke "-":
+		c = a - b
+	aayke "*":
+		c = a * b
+	aayke "/":
+		c = a / b
+	aayke "%":
+		c = a % b
+	aayke _:
+		bare("Gottillada Karya")
+		sari = sullu
+
+onduvele (sari):
+	bare("Karyada uttara: " + vaakya(c))

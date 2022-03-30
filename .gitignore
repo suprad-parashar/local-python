@@ -1,3 +1,5 @@
-./build
-./dist
-./indicpy/test.py
+build/
+dist/
+indicpy/test.py
+gitignore
+indicpy.egg-info/
