@@ -13,8 +13,11 @@ So, feel free to contribute! Let's make this something nice to learn! Let's show
 I got this idea when I was talking to my mother. Here is a snippet of our convo
 
 Mum: See this! This company is teaching coding in kannada!
+
 Me: Yeah, I know this. It's been there since a while now.
+
 Mum: Isn't this nice! People can learn coding in their mother tongues!
+
 Me: Yeah, it seems nice, but they still have to learn english as the keywords are written in english. If the keywords were in their local languages, then it made sense. 
 
 That got me thinking, "Why isn't there such a thing? There should be one!" I didn't know if this was needed or not. I still don't! I feel it's stupid. But, I love to code, I had time... So, why not?
