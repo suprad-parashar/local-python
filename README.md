@@ -2,7 +2,7 @@
  The python language for Indian Languages
 
 ## Purpose
-Python is a very versatile language and can be used everywhere. I recently came across an ad of a company which was teaching Python in indic languages. So there was a teacher who was teaching the syntax of the Python language in kannada, and I was thinking, "This is nuts! You still have to know English to understand what the keywords mean!" That is when it clicked to me about a python language written in indic languages.
+Python is a very versatile language and can be used everywhere. I was watching TV with my mom when we came across an ad of a company which was teaching coding in Indian languages. In the ad, there was a teacher who was teaching the syntax of the Python language in kannada, and I was thinking, "This is nuts! You still have to know English to understand what the keywords mean!". My not so tech savvy mom suggested that it would be easier for students to code if the keywords itself were in Kannada. That is when it clicked to me about creating a python language written in indian languages.
 
 This project is still under development. I have no Idea on where to start, how to do. I have done a basic job of replacing occurances, but I am sure, there is more to it!
 
